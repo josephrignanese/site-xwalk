@@ -2,5 +2,8 @@
   "mappings": [
     "/content/rignanes-xwalk/:/",
     "/content/rignanes-xwalk/configuration:/.helix/config.json"
+  ],
+  "includes": [
+    "/content/rignanes-xwalk/"
   ]
 }
